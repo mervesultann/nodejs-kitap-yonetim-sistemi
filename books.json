@@ -1,0 +1,170 @@
+[
+  {
+    "id": 2,
+    "title": "Hayvan Çiftliği",
+    "author": "George Orwell",
+    "year": 1945,
+    "genre": "Dystopian",
+    "pages": 112
+  },
+  {
+    "id": 3,
+    "title": "Küçük Prens",
+    "author": "Antoine de Saint-Exupéry",
+    "year": 1943,
+    "genre": "Children's literature",
+    "pages": 96
+  },
+  {
+    "id": 4,
+    "title": "Gece Uçuşu",
+    "author": "Antoine de Saint-Exupéry",
+    "year": 1931,
+    "genre": "Adventure",
+    "pages": 144
+  },
+  {
+    "id": 5,
+    "title": "Suç ve Ceza",
+    "author": "Fyodor Dostoyevsky",
+    "year": 1866,
+    "genre": "Philosophical novel",
+    "pages": 671
+  },
+  {
+    "id": 6,
+    "title": "Karamazov Kardeşler",
+    "author": "Fyodor Dostoyevsky",
+    "year": 1880,
+    "genre": "Philosophical novel",
+    "pages": 824
+  },
+  {
+    "id": 7,
+    "title": "Yeraltından Notlar",
+    "author": "Fyodor Dostoyevsky",
+    "year": 1864,
+    "genre": "Existentialist novel",
+    "pages": 203
+  },
+  {
+    "id": 8,
+    "title": "Sefiller",
+    "author": "Victor Hugo",
+    "year": 1862,
+    "genre": "Historical novel",
+    "pages": 1463
+  },
+  {
+    "id": 9,
+    "title": "Notre Dame'ın Kamburu",
+    "author": "Victor Hugo",
+    "year": 1831,
+    "genre": "Historical novel",
+    "pages": 940
+  },
+  {
+    "id": 10,
+    "title": "Harry Potter ve Felsefe Taşı",
+    "author": "J.K. Rowling",
+    "year": 1997,
+    "genre": "Fantasy",
+    "pages": 223
+  },
+  {
+    "id": 11,
+    "title": "Harry Potter ve Sırlar Odası",
+    "author": "J.K. Rowling",
+    "year": 1998,
+    "genre": "Fantasy",
+    "pages": 251
+  },
+  {
+    "id": 12,
+    "title": "Harry Potter ve Azkaban Tutsağı",
+    "author": "J.K. Rowling",
+    "year": 1999,
+    "genre": "Fantasy",
+    "pages": 317
+  },
+  {
+    "id": 13,
+    "title": "Sherlock Holmes'un Maceraları",
+    "author": "Arthur Conan Doyle",
+    "year": 1892,
+    "genre": "Mystery",
+    "pages": 307
+  },
+  {
+    "id": 14,
+    "title": "Sherlock Holmes: Dörtlerin İmzası",
+    "author": "Arthur Conan Doyle",
+    "year": 1890,
+    "genre": "Mystery",
+    "pages": 201
+  },
+  {
+    "id": 15,
+    "title": "Satranç",
+    "author": "Stefan Zweig",
+    "year": 1942,
+    "genre": "Novella",
+    "pages": 112
+  },
+  {
+    "id": 16,
+    "title": "Bilinmeyen Bir Kadının Mektubu",
+    "author": "Stefan Zweig",
+    "year": 1922,
+    "genre": "Novella",
+    "pages": 88
+  },
+  {
+    "id": 17,
+    "title": "Amok Koşucusu",
+    "author": "Stefan Zweig",
+    "year": 1922,
+    "genre": "Novella",
+    "pages": 96
+  },
+  {
+    "id": 18,
+    "title": "Simyacı",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "genre": "Adventure",
+    "pages": 167
+  },
+  {
+    "id": 19,
+    "title": "On Bir Dakika",
+    "author": "Paulo Coelho",
+    "year": 2003,
+    "genre": "Romance",
+    "pages": 273
+  },
+  {
+    "id": 20,
+    "title": "Zahit",
+    "author": "Paulo Coelho",
+    "year": 2005,
+    "genre": "Philosophical novel",
+    "pages": 340
+  },
+  {
+    "id": 21,
+    "title": "Suç ve Ceza2",
+    "author": "Fyodor Dostoyevsky",
+    "year": 1866,
+    "genre": "Philosophical novel",
+    "pages": 671
+  },
+  {
+    "title": "456",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Dystopian",
+    "pages": 300,
+    "id": 22
+  }
+]
