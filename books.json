@@ -3,9 +3,9 @@
     "id": 2,
     "title": "Hayvan Çiftliği",
     "author": "George Orwell",
-    "year": 1945,
+    "year": 1948,
     "genre": "Dystopian",
-    "pages": 112
+    "pages": 120
   },
   {
     "id": 3,
@@ -164,7 +164,31 @@
     "author": "George Orwell",
     "year": 1949,
     "genre": "Dystopian",
-    "pages": 300,
+    "pages": 301,
     "id": 22
+  },
+  {
+    "title": "merve",
+    "author": "merve",
+    "genre": "hikaye",
+    "year": 2010,
+    "pages": 100,
+    "id": 23
+  },
+  {
+    "title": "Hayvan Çiftliği",
+    "author": "George Orwell",
+    "genre": "dfsf",
+    "year": 3443,
+    "pages": 2323,
+    "id": 24
+  },
+  {
+    "title": "Küçük Prens",
+    "author": "Antoine de Saint-Exupéry",
+    "year": 1943,
+    "genre": "Children's literature",
+    "pages": 96,
+    "id": 25
   }
 ]
